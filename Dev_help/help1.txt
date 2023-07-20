@@ -1,1 +1,0 @@
-help1.txt in Dev branch's help folder
